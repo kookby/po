@@ -457,7 +457,7 @@ h1 {
     width: 100%;
     height: 100%;
     position: relative;
-    padding-bottom: 5%;
+    padding-bottom: 3%;
     background: rgba(25, 25, 25,0.9);
     text-align: center;
 }
@@ -466,7 +466,7 @@ h1 {
 }
 
 .part5 .group div:last-child{
-    margin-top: 5%;
+    margin-top: 27%;
 }
 .part5 .group div:last-child p:nth-child(3),
 .part5 .group div:last-child p:nth-child(5){
@@ -478,7 +478,7 @@ h1 {
 }
 .part5 p{
     font-size: 18px;
-    margin: 2% 0px;
+    margin: 1% 0px;
 }
 .part5 .title{
     font-size: 45px;

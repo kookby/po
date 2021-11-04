@@ -308,21 +308,15 @@ h1 {
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: #112D4E;
+    background: #000;
     margin-right: 20px;
 }
 .part2 .color .s{
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: #245DA2;
+    background: #fff;
     margin-right: 20px;
-}
-.part2 .color .t{
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    background: #E7E5E5;
 }
 .part2 .title{
     color: #d280f7;
@@ -372,19 +366,6 @@ h1 {
     border-radius: 50%;
     background: #f4f4f4;
     margin-right: 20px;
-}
-.part3 .color .t{
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    background: #48B057;
-    margin-right: 20px;
-}
-.part3 .color .fo{
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    background: #FE4854;
 }
 .part3 .title{
     color: #d280f7;
@@ -463,6 +444,7 @@ h1 {
 }
 .part5 .group{
     padding-top: 10%;
+    margin-bottom: 300px;
 }
 
 .part5 .group div:last-child{
@@ -481,6 +463,42 @@ h1 {
     margin: 1% 0px;
 }
 .part5 .title{
+    font-size: 45px;
+    margin: 0;
+    padding: 20px 0;
+    color: #d280f7;
+    /* text-align: center; */
+}
+
+/* 추가 섹션6 */
+.part6{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding-bottom: 3%;
+    background: rgba(25, 25, 25,0.9);
+    text-align: center;
+}
+.part6 .group{
+    padding-top: 10%;
+}
+
+.part6 .group div:last-child{
+    margin-top: 27%;
+}
+.part6 .group div:last-child p:nth-child(3),
+.part6 .group div:last-child p:nth-child(5){
+    font-size: 18px;
+}
+.part6 .t{
+    font-size: 20px;
+    padding: 10px;
+}
+.part6 p{
+    font-size: 18px;
+    margin: 1% 0px;
+}
+.part6 .title{
     font-size: 45px;
     margin: 0;
     padding: 20px 0;

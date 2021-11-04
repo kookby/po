@@ -308,7 +308,7 @@ h1 {
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: #000;
+    background: #840517;
     margin-right: 20px;
 }
 .part2 .color .s{
@@ -319,6 +319,7 @@ h1 {
     margin-right: 20px;
 }
 .part2 .title{
+    font-size: 4.0rem;
     color: #d280f7;
 }
 .part2 .button:hover{
@@ -357,17 +358,18 @@ h1 {
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: #840517;
+    background: #000;
     margin-right: 20px;
 }
-.part3 .color .s{
+/* .part3 .color .s{
     width: 25px;
     height: 25px;
     border-radius: 50%;
     background: #f4f4f4;
     margin-right: 20px;
-}
+} */
 .part3 .title{
+    font-size: 4.0rem;
     color: #d280f7;
 }
 .part3 .button:hover{
@@ -422,6 +424,7 @@ h1 {
     background: #F8F2DE;
 }
 .part4 .title{
+    font-size: 4.0rem;
     color: #d280f7;
 }
 .part4 .button_box{
@@ -443,27 +446,28 @@ h1 {
     text-align: center;
 }
 .part5 .group{
-    padding-top: 10%;
-    margin-bottom: 300px;
+    padding-top: 2%;
+    margin-bottom: 200px;
 }
 
 .part5 .group div:last-child{
-    margin-top: 27%;
+    margin-top: 30%;
+    margin-bottom: 30%;
 }
-.part5 .group div:last-child p:nth-child(3),
+/* .part5 .group div:last-child p:nth-child(3),
 .part5 .group div:last-child p:nth-child(5){
     font-size: 18px;
-}
+} */
 .part5 .t{
     font-size: 20px;
     padding: 10px;
 }
 .part5 p{
-    font-size: 18px;
-    margin: 1% 0px;
+    font-size: 28px;
+    margin: 25px 0px;
 }
 .part5 .title{
-    font-size: 45px;
+    font-size: 75px;
     margin: 0;
     padding: 20px 0;
     color: #d280f7;
@@ -480,26 +484,23 @@ h1 {
     text-align: center;
 }
 .part6 .group{
-    padding-top: 10%;
+    padding-top: 330px;
+    padding-bottom: 300px;
 }
 
 .part6 .group div:last-child{
-    margin-top: 27%;
+    margin: 0 auto;
 }
-.part6 .group div:last-child p:nth-child(3),
+/* .part6 .group div:last-child p:nth-child(3),
 .part6 .group div:last-child p:nth-child(5){
     font-size: 18px;
-}
-.part6 .t{
-    font-size: 20px;
-    padding: 10px;
-}
+} */
 .part6 p{
-    font-size: 18px;
-    margin: 1% 0px;
+    font-size: 28px;
+    margin: 25px 0px;
 }
 .part6 .title{
-    font-size: 45px;
+    font-size: 75px;
     margin: 0;
     padding: 20px 0;
     color: #d280f7;
